@@ -1,0 +1,27 @@
+{
+	"auto_complete_commit_on_tab": true,
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Color Scheme - Default/Espresso Libre.tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"font_size": 12,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"margin": 2,
+	"new_window_settings":
+	{
+		"show_minimap": false
+	},
+	"rulers":
+	[
+		80
+	],
+	"save_on_focus_lost": false,
+	"tab_size": 2,
+	"theme": "Soda Light.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}
