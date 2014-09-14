@@ -1,0 +1,4 @@
+{
+	"last_test_run": "rvm-auto-ruby -S bundle exec rspec spec/controllers/users_controller_spec.rb -l23",
+	"last_test_working_dir": "/Users/iker/Workspace/lunchkaki"
+}
