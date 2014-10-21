@@ -1,15 +1,15 @@
 {
 	"folder_history":
 	[
-		"/Users/iker/Titanium/Lunch Kaki/Resources",
 		"/Users/iker/Workspace/lunchkaki",
+		"/Users/iker/Titanium/Lunch Kaki/Resources",
 		"/Users/iker/Titanium/Lunch Kaki",
 		"/Users/iker/Downloads/untitled folder",
 		"/Users/iker/Titanium/Lunch Kaki/Resources/views",
 		"/Users/iker/Titanium/Lunch Kaki copy 4/Resources",
 		"/Users/iker/Titanium/Lunch Kaki copy 3/Resources"
 	],
-	"last_window_id": 67,
+	"last_window_id": 71,
 	"settings":
 	{
 		"new_window_height": 851.0,
@@ -19,6 +19,14 @@
 			{
 				"selected_items":
 				[
+					[
+						"messa",
+						"message_wrap"
+					],
+					[
+						"chat",
+						"chat_partner_status"
+					],
 					[
 						"c",
 						"chat_id"
@@ -144,20 +152,12 @@
 						"message_wrap"
 					],
 					[
-						"messa",
-						"message"
-					],
-					[
 						"mess",
 						"message_background"
 					],
 					[
 						"border",
 						"borderWidth"
-					],
-					[
-						"chat",
-						"chat_time"
 					],
 					[
 						"de",
@@ -345,7 +345,20 @@
 			},
 			"file_history":
 			[
-				"/Users/iker/Workspace/lunchkaki/app/assets/stylesheets/websites/home.css.scss",
+				"/Users/iker/Library/Application Support/Sublime Text 2/Packages/RSpec/RSpec.sublime-build",
+				"/Users/iker/Library/Application Support/Sublime Text 2/Packages/RubyTest/RubyTest.sublime-settings",
+				"/Users/iker/Library/Application Support/Sublime Text 2/Packages/User/RubyTest.sublime-settings",
+				"/Users/iker/Workspace/lunchkaki/spec/api/v1/users_spec.rb",
+				"/Users/iker/Workspace/lunchkaki/spec/api/v1/Test Results",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/chats.listing.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/services/windows.back.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/views/chat/list.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/views/request/received.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/views/request/send.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/windows.openclose.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/windows.slide.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/chats.messages.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/app_ios.js",
 				"/Users/iker/Titanium/Lunch Kaki/Resources/gcm_activity.js",
 				"/Users/iker/Titanium/Lunch Kaki/Resources/gcm.js",
 				"/Users/iker/Titanium/Lunch Kaki/Resources/lib.gcm.js",
@@ -361,23 +374,18 @@
 				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/chats.ws_android.js",
 				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/chats.messages_android.js",
 				"/Users/iker/Titanium/Lunch Kaki/Resources/views/chat/box_android.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/services/windows.back.js",
 				"/Users/iker/Titanium/Lunch Kaki/Resources/views/user/account.js",
 				"/Users/iker/Titanium/Lunch Kaki/Resources/controllers/inapp_android_controller.js",
 				"/Users/iker/Titanium/Lunch Kaki/Resources/views/application/back_button.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/app_ios.js",
 				"/Users/iker/Titanium/Lunch Kaki/Resources/services/location.js",
 				"/Users/iker/Titanium/Lunch Kaki/Resources/controllers/inapp_controller.js",
 				"/Users/iker/Titanium/Lunch Kaki/Resources/views/user/ffl.js",
 				"/Users/iker/Titanium/Lunch Kaki/Resources/views/application/home.js",
 				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/field.picker.js",
-				"/Users/iker/Library/Application Support/Sublime Text 2/Packages/RubyTest/RubyTest.sublime-settings",
 				"/Users/iker/Titanium/Lunch Kaki/Resources/views/user/profile.js",
 				"/Users/iker/Downloads/Lunch Kaki.apk",
 				"/Users/iker/Downloads/Lunch",
 				"/Users/iker/Kaki.apk",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/windows.openclose.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/windows.slide.js",
 				"/Users/iker/Titanium/Lunch Kaki/Resources/services/alert.js",
 				"/Users/iker/Titanium/Lunch Kaki/Resources/html/policy.html",
 				"/Users/iker/Titanium/Lunch Kaki/Resources/views/chat/box_ios.js",
@@ -385,15 +393,12 @@
 				"/Users/iker/Titanium/Lunch Kaki/Resources/views/application/footer_ios.js",
 				"/Users/iker/Titanium/Lunch Kaki/Resources/models/requests.js",
 				"/Users/iker/Titanium/Lunch Kaki/Resources/views/user/login.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/views/chat/list.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/chats.listing.js",
 				"/Users/iker/Titanium/Lunch Kaki/Resources/models/messages.js",
 				"/Users/iker/Titanium/Lunch Kaki/Resources/controllers/users_controller.js",
 				"/Users/iker/Titanium/Lunch Kaki/Resources/services/windows.js",
 				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/requests.send.listing.js",
 				"/Users/iker/Titanium/Lunch Kaki/Resources/views/monthkakis/monthkakis.js",
 				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/avatar.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/chats.messages.js",
 				"/Users/iker/Titanium/Lunch Kaki/Resources/views/application/footer.js",
 				"/Users/iker/Titanium/Lunch Kaki/Resources/views/chat/box.js",
 				"/Users/iker/Titanium/Lunch Kaki/Resources/app.js",
@@ -405,8 +410,6 @@
 				"/Users/iker/Titanium/Lunch Kaki/Resources/models/blocks.js",
 				"/Users/iker/Titanium/Lunch Kaki/Resources/views/application/welcome.js",
 				"/Users/iker/Titanium/Lunch Kaki/Resources/services/windows.current.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/views/request/received.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/views/request/send.js",
 				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/datetime.js",
 				"/Users/iker/Titanium/Lunch Kaki/Resources/models/chats.js",
 				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/helpers.js",
@@ -453,11 +456,9 @@
 				"/private/etc/.bash_profile",
 				"/Users/iker/.bash_profile",
 				"/Users/iker/Workspace/lunchkaki/.powrc",
-				"/Users/iker/Library/Application Support/Sublime Text 2/Packages/User/RubyTest.sublime-settings",
 				"/Users/iker/Library/Application Support/Sublime Text 2/Packages/Ruby/Ruby.sublime-build",
 				"/Users/iker/Library/Application Support/Sublime Text 2/Packages/RubyTest/Default.sublime-keymap",
 				"/Users/iker/Library/Application Support/Sublime Text 2/Packages/RubyTest/Default (OSX).sublime-keymap",
-				"/Users/iker/Library/Application Support/Sublime Text 2/Packages/RSpec/RSpec.sublime-build",
 				"/Users/iker/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
 				"/Users/iker/Workspace/lunchkaki/spec/models/user_spec.rb",
 				"/Users/iker/Workspace/lunchkaki/app/models/user.rb"
@@ -479,6 +480,33 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"footer",
+					"padding",
+					"message_input.top",
+					"message_input",
+					"Ti.App.chat_typing",
+					"Ti.App.linecount",
+					"setIn",
+					"open_keyboard",
+					"textarea_typing",
+					"textarea_typing_interval",
+					"textarea_typing(form_input, message_input_wrap, message_input, send_button_wrap, message_wrap, last_online, body, body_height, padding, alert_height)",
+					"textarea_typing",
+					"close_keyboard(form_input, message_input_wrap, message_input, send_button_wrap, message_wrap, last_online, body, body_height, padding, alert_height)",
+					"close_ke",
+					"open_keyboard(form_input, message_input_wrap, message_input, send_button_wrap, message_wrap, last_online, body, body_height, padding, alert_height)",
+					"is_typing",
+					"user_is_typing",
+					"android:back",
+					"blur",
+					"setIn",
+					"activityExitAnimation",
+					"user_is_no_typing",
+					"last_online_message",
+					"last_online_label.text",
+					"message_input",
+					"big_avatar",
+					"kaki_typing",
 					"last_online_label",
 					"message_input.height = 40",
 					"message_input.height",
@@ -579,34 +607,7 @@
 					"all_requests",
 					"ff000",
 					"(message_wrap, last_online, body, body_height, padding, alert_height)",
-					"(element, last_online, body, body_height, padding, alert_height)",
-					"open_keyboard",
-					"body_he",
-					"5",
-					"body_height",
-					"13",
-					"postlayout",
-					"Ti.App.change",
-					"changed",
-					"is_in_focus",
-					"send_but",
-					"padding",
-					"message_input_fake",
-					"message_wrap",
-					"body",
-					"item_wrap_load",
-					"reopen",
-					"display_chat();",
-					"element",
-					"bottom",
-					"Enter chat text here!",
-					"Ti.API.error(",
-					"request_chat_information_ffl",
-					"ffl",
-					"JSON.parse",
-					"data.partner_deleted",
-					"login",
-					"request_download_welcome_picture"
+					"(element, last_online, body, body_height, padding, alert_height)"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -614,6 +615,10 @@
 				"regex": false,
 				"replace_history":
 				[
+					"textarea_typing(message_wrap)",
+					"close_keyboard(message_wrap)",
+					"open_keyboard(message_wrap)",
+					"androidback",
 					"message_input.height = 35",
 					"avatar_big_test",
 					"Ti.App.user_listing_clickable",
@@ -692,7 +697,7 @@
 			"menu_visible": true,
 			"output.exec":
 			{
-				"height": 102.0
+				"height": 239.0
 			},
 			"replace":
 			{
@@ -705,8 +710,24 @@
 				"selected_items":
 				[
 					[
-						"websitehomecss",
-						"app/assets/stylesheets/websites/home.css.scss"
+						"specapiuser",
+						"spec/api/v1/users_spec.rb"
+					],
+					[
+						"chatlist",
+						"helpers/chats.listing.js"
+					],
+					[
+						"back",
+						"services/windows.back.js"
+					],
+					[
+						"slide",
+						"helpers/windows.slide.js"
+					],
+					[
+						"open",
+						"helpers/windows.openclose.js"
 					],
 					[
 						"appos",
@@ -743,10 +764,6 @@
 					[
 						"app",
 						"controllers/inapp_android_controller.js"
-					],
-					[
-						"back",
-						"views/application/back_button.js"
 					],
 					[
 						"requ",
@@ -787,14 +804,6 @@
 					[
 						"home",
 						"views/application/home.js"
-					],
-					[
-						"slide",
-						"helpers/windows.slide.js"
-					],
-					[
-						"open",
-						"helpers/windows.openclose.js"
 					],
 					[
 						"pr",
@@ -839,10 +848,6 @@
 					[
 						"requs",
 						"helpers/requests.send.listing.js"
-					],
-					[
-						"chatlist",
-						"helpers/chats.listing.js"
 					],
 					[
 						"request",
@@ -1244,6 +1249,10 @@
 				"selected_items":
 				[
 					[
+						"messa",
+						"message_wrap"
+					],
+					[
 						"chat",
 						"chat_partner_status"
 					],
@@ -1370,10 +1379,6 @@
 					[
 						"messe",
 						"message_wrap"
-					],
-					[
-						"messa",
-						"message"
 					],
 					[
 						"mess",
@@ -1523,7 +1528,7 @@
 					"file": "/Users/iker/Titanium/Lunch Kaki/Resources/app_android.js",
 					"settings":
 					{
-						"buffer_size": 15264,
+						"buffer_size": 16152,
 						"line_ending": "Unix"
 					}
 				},
@@ -1531,7 +1536,7 @@
 					"file": "/Users/iker/Titanium/Lunch Kaki/Resources/views/chat/box_android.js",
 					"settings":
 					{
-						"buffer_size": 20907,
+						"buffer_size": 20391,
 						"line_ending": "Unix"
 					}
 				},
@@ -1539,7 +1544,7 @@
 					"file": "/Users/iker/Titanium/Lunch Kaki/Resources/helpers/chats.messages_android.js",
 					"settings":
 					{
-						"buffer_size": 22701,
+						"buffer_size": 17104,
 						"line_ending": "Unix"
 					}
 				},
@@ -1547,15 +1552,7 @@
 					"file": "/Users/iker/Titanium/Lunch Kaki/Resources/helpers/chats.ws_android.js",
 					"settings":
 					{
-						"buffer_size": 14364,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/iker/Titanium/Lunch Kaki/Resources/helpers/chats.listing.js",
-					"settings":
-					{
-						"buffer_size": 16439,
+						"buffer_size": 14266,
 						"line_ending": "Unix"
 					}
 				}
@@ -1620,6 +1617,14 @@
 			},
 			"file_history":
 			[
+				"/Users/iker/Library/Application Support/Sublime Text 2/Packages/Ruby/Ruby.sublime-build",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/services/windows.back.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/windows.openclose.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/chats.listing.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/views/chat/list.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/views/request/received.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/views/request/send.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/windows.slide.js",
 				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/chats.messages.js",
 				"/Users/iker/Titanium/Lunch Kaki/Resources/app_ios.js",
 				"/Users/iker/Titanium/Lunch Kaki/Resources/gcm_activity.js",
@@ -1637,7 +1642,6 @@
 				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/chats.ws_android.js",
 				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/chats.messages_android.js",
 				"/Users/iker/Titanium/Lunch Kaki/Resources/views/chat/box_android.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/services/windows.back.js",
 				"/Users/iker/Titanium/Lunch Kaki/Resources/views/user/account.js",
 				"/Users/iker/Titanium/Lunch Kaki/Resources/controllers/inapp_android_controller.js",
 				"/Users/iker/Titanium/Lunch Kaki/Resources/views/application/back_button.js",
@@ -1651,8 +1655,6 @@
 				"/Users/iker/Downloads/Lunch Kaki.apk",
 				"/Users/iker/Downloads/Lunch",
 				"/Users/iker/Kaki.apk",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/windows.openclose.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/windows.slide.js",
 				"/Users/iker/Titanium/Lunch Kaki/Resources/services/alert.js",
 				"/Users/iker/Titanium/Lunch Kaki/Resources/html/policy.html",
 				"/Users/iker/Titanium/Lunch Kaki/Resources/views/chat/box_ios.js",
@@ -1660,8 +1662,6 @@
 				"/Users/iker/Titanium/Lunch Kaki/Resources/views/application/footer_ios.js",
 				"/Users/iker/Titanium/Lunch Kaki/Resources/models/requests.js",
 				"/Users/iker/Titanium/Lunch Kaki/Resources/views/user/login.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/views/chat/list.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/chats.listing.js",
 				"/Users/iker/Titanium/Lunch Kaki/Resources/models/messages.js",
 				"/Users/iker/Titanium/Lunch Kaki/Resources/controllers/users_controller.js",
 				"/Users/iker/Titanium/Lunch Kaki/Resources/services/windows.js",
@@ -1679,8 +1679,6 @@
 				"/Users/iker/Titanium/Lunch Kaki/Resources/models/blocks.js",
 				"/Users/iker/Titanium/Lunch Kaki/Resources/views/application/welcome.js",
 				"/Users/iker/Titanium/Lunch Kaki/Resources/services/windows.current.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/views/request/received.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/views/request/send.js",
 				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/datetime.js",
 				"/Users/iker/Titanium/Lunch Kaki/Resources/models/chats.js",
 				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/helpers.js",
@@ -1728,7 +1726,6 @@
 				"/Users/iker/.bash_profile",
 				"/Users/iker/Workspace/lunchkaki/.powrc",
 				"/Users/iker/Library/Application Support/Sublime Text 2/Packages/User/RubyTest.sublime-settings",
-				"/Users/iker/Library/Application Support/Sublime Text 2/Packages/Ruby/Ruby.sublime-build",
 				"/Users/iker/Library/Application Support/Sublime Text 2/Packages/RubyTest/Default.sublime-keymap",
 				"/Users/iker/Library/Application Support/Sublime Text 2/Packages/RubyTest/Default (OSX).sublime-keymap",
 				"/Users/iker/Library/Application Support/Sublime Text 2/Packages/RSpec/RSpec.sublime-build",
@@ -1753,6 +1750,28 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"\"No\"",
+					"footer",
+					"padding",
+					"message_input.top",
+					"message_input",
+					"Ti.App.chat_typing",
+					"Ti.App.linecount",
+					"setIn",
+					"open_keyboard",
+					"textarea_typing",
+					"textarea_typing_interval",
+					"textarea_typing(form_input, message_input_wrap, message_input, send_button_wrap, message_wrap, last_online, body, body_height, padding, alert_height)",
+					"textarea_typing",
+					"close_keyboard(form_input, message_input_wrap, message_input, send_button_wrap, message_wrap, last_online, body, body_height, padding, alert_height)",
+					"close_ke",
+					"open_keyboard(form_input, message_input_wrap, message_input, send_button_wrap, message_wrap, last_online, body, body_height, padding, alert_height)",
+					"is_typing",
+					"user_is_typing",
+					"android:back",
+					"blur",
+					"setIn",
+					"activityExitAnimation",
 					"user_is_no_typing",
 					"last_online_message",
 					"last_online_label.text",
@@ -1858,29 +1877,7 @@
 					"keyboard_open",
 					"all_requests",
 					"ff000",
-					"(message_wrap, last_online, body, body_height, padding, alert_height)",
-					"(element, last_online, body, body_height, padding, alert_height)",
-					"open_keyboard",
-					"body_he",
-					"5",
-					"body_height",
-					"13",
-					"postlayout",
-					"Ti.App.change",
-					"changed",
-					"is_in_focus",
-					"send_but",
-					"padding",
-					"message_input_fake",
-					"message_wrap",
-					"body",
-					"item_wrap_load",
-					"reopen",
-					"display_chat();",
-					"element",
-					"bottom",
-					"Enter chat text here!",
-					"Ti.API.error("
+					"(message_wrap, last_online, body, body_height, padding, alert_height)"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1888,6 +1885,10 @@
 				"regex": false,
 				"replace_history":
 				[
+					"textarea_typing(message_wrap)",
+					"close_keyboard(message_wrap)",
+					"open_keyboard(message_wrap)",
+					"androidback",
 					"message_input.height = 35",
 					"avatar_big_test",
 					"Ti.App.user_listing_clickable",
@@ -1942,7 +1943,7 @@
 			"groups":
 			[
 				{
-					"selected": 2,
+					"selected": 3,
 					"sheets":
 					[
 						{
@@ -1957,63 +1958,8 @@
 								"selection":
 								[
 									[
-										4716,
-										4716
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 2619.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/Users/iker/Titanium/Lunch Kaki/Resources/app_android.js",
-							"settings":
-							{
-								"buffer_size": 15264,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										14665,
-										14639
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 6099.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/Users/iker/Titanium/Lunch Kaki/Resources/views/chat/box_android.js",
-							"settings":
-							{
-								"buffer_size": 20907,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										523,
-										523
+										788,
+										788
 									]
 								],
 								"settings":
@@ -2028,46 +1974,19 @@
 							"type": "text"
 						},
 						{
-							"buffer": 3,
-							"file": "/Users/iker/Titanium/Lunch Kaki/Resources/helpers/chats.messages_android.js",
+							"buffer": 1,
+							"file": "/Users/iker/Titanium/Lunch Kaki/Resources/app_android.js",
 							"settings":
 							{
-								"buffer_size": 22701,
+								"buffer_size": 16152,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										8248,
-										8248
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 4077.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 4,
-							"file": "/Users/iker/Titanium/Lunch Kaki/Resources/helpers/chats.ws_android.js",
-							"settings":
-							{
-								"buffer_size": 14364,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										14031,
-										14031
+										1035,
+										1035
 									]
 								],
 								"settings":
@@ -2077,25 +1996,25 @@
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 3796.0,
+								"translation.y": 3633.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
 						},
 						{
-							"buffer": 5,
-							"file": "/Users/iker/Titanium/Lunch Kaki/Resources/helpers/chats.listing.js",
+							"buffer": 2,
+							"file": "/Users/iker/Titanium/Lunch Kaki/Resources/views/chat/box_android.js",
 							"settings":
 							{
-								"buffer_size": 16439,
+								"buffer_size": 20391,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										11207,
-										11174
+										11573,
+										11204
 									]
 								],
 								"settings":
@@ -2104,7 +2023,62 @@
 									"translate_tabs_to_spaces": false
 								},
 								"translation.x": 0.0,
-								"translation.y": 337.0,
+								"translation.y": 6702.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/Users/iker/Titanium/Lunch Kaki/Resources/helpers/chats.messages_android.js",
+							"settings":
+							{
+								"buffer_size": 17104,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3999,
+										3999
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 8.0,
+								"translation.y": 1496.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/Users/iker/Titanium/Lunch Kaki/Resources/helpers/chats.ws_android.js",
+							"settings":
+							{
+								"buffer_size": 14266,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										5174,
+										5174
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1662.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
@@ -2159,8 +2133,20 @@
 				"selected_items":
 				[
 					[
+						"open",
+						"helpers/windows.openclose.js"
+					],
+					[
+						"back",
+						"services/windows.back.js"
+					],
+					[
 						"chatlist",
 						"helpers/chats.listing.js"
+					],
+					[
+						"slide",
+						"helpers/windows.slide.js"
 					],
 					[
 						"appos",
@@ -2197,10 +2183,6 @@
 					[
 						"app",
 						"controllers/inapp_android_controller.js"
-					],
-					[
-						"back",
-						"views/application/back_button.js"
 					],
 					[
 						"requ",
@@ -2241,14 +2223,6 @@
 					[
 						"home",
 						"views/application/home.js"
-					],
-					[
-						"slide",
-						"helpers/windows.slide.js"
-					],
-					[
-						"open",
-						"helpers/windows.openclose.js"
 					],
 					[
 						"pr",
@@ -3024,12 +2998,14 @@
 			},
 			"file_history":
 			[
-				"/Users/iker/Workspace/lunchkaki/app/views/websites/home.haml",
-				"/Users/iker/Workspace/lunchkaki/app/assets/stylesheets/websites/home.css.scss",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/chats.messages.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/app_ios.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/views/chat/box_ios.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/chats.ws.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/views/chat/box.js",
 				"/Users/iker/Titanium/Lunch Kaki/Resources/gcm_activity.js",
 				"/Users/iker/Titanium/Lunch Kaki/Resources/gcm.js",
 				"/Users/iker/Titanium/Lunch Kaki/Resources/lib.gcm.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/chats.ws.js",
 				"/Users/iker/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
 				"/Users/iker/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
 				"/Users/iker/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
@@ -3045,7 +3021,6 @@
 				"/Users/iker/Titanium/Lunch Kaki/Resources/views/user/account.js",
 				"/Users/iker/Titanium/Lunch Kaki/Resources/controllers/inapp_android_controller.js",
 				"/Users/iker/Titanium/Lunch Kaki/Resources/views/application/back_button.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/app_ios.js",
 				"/Users/iker/Titanium/Lunch Kaki/Resources/services/location.js",
 				"/Users/iker/Titanium/Lunch Kaki/Resources/controllers/inapp_controller.js",
 				"/Users/iker/Titanium/Lunch Kaki/Resources/views/user/ffl.js",
@@ -3060,7 +3035,6 @@
 				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/windows.slide.js",
 				"/Users/iker/Titanium/Lunch Kaki/Resources/services/alert.js",
 				"/Users/iker/Titanium/Lunch Kaki/Resources/html/policy.html",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/views/chat/box_ios.js",
 				"/Users/iker/Titanium/Lunch Kaki/Resources/views/application/footer_android.js",
 				"/Users/iker/Titanium/Lunch Kaki/Resources/views/application/footer_ios.js",
 				"/Users/iker/Titanium/Lunch Kaki/Resources/models/requests.js",
@@ -3073,1279 +3047,6 @@
 				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/requests.send.listing.js",
 				"/Users/iker/Titanium/Lunch Kaki/Resources/views/monthkakis/monthkakis.js",
 				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/avatar.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/chats.messages.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/views/application/footer.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/views/chat/box.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/app.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/views/application/sidemenu.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/controllers/controllers.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/app_android.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/views/user/tutorial.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/views/user/share.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/models/blocks.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/views/application/welcome.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/services/windows.current.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/views/request/received.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/views/request/send.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/datetime.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/models/chats.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/helpers.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/models/users.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/services/font_family.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/services/location_android.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/services/configs.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/db/db_creator.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/html/about.html",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/controllers/application_controller.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/users.block.js",
-				"/Users/iker/Downloads/var/log/puma/puma.log-20140924",
-				"/Users/iker/Downloads/var/log/puma/puma.log",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/cache_image.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/controllers/monthkakis_controller.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/models/monthkakis.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/services/internet.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/requests.received.listing.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/services/badge_number.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/views/user/block.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/services/user.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/views/application/about.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/views/user/alert.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/views/user/feedback.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/views/user/privacy_policy.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/views/user/activate_account.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/views/user/forgot_password.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/views/user/terms_of_use.js",
-				"/Users/iker/Downloads/latest.dump",
-				"/Users/iker/Workspace/lunchkaki/spec/controllers/users_controller_spec.rb",
-				"/Users/iker/Workspace/lunchkaki/app/views/users/admin_send_notification_to_next_user.haml",
-				"/Users/iker/Workspace/lunchkaki/app/controllers/users_controller.rb",
-				"/Users/iker/Workspace/lunchkaki/app/assets/javascripts/websites/admin_send_notification_to_next_user.js.coffee",
-				"/Users/iker/Workspace/lunchkaki/app/assets/javascripts/websites.js",
-				"/Users/iker/Workspace/lunchkaki/app/views/users/feedback.haml",
-				"/Users/iker/Workspace/lunchkaki/app/assets/javascripts/websites/home.js.coffee",
-				"/Users/iker/Workspace/lunchkaki/app/assets/javascripts/users/admin_send_notification_to_next_user.js.coffee",
-				"/Users/iker/Workspace/lunchkaki/app/services/admin_notification.rb",
-				"/Users/iker/Workspace/lunchkaki/spec/services/admin_notification_spec.rb",
-				"/Users/iker/Workspace/lunchkaki/config/routes.rb",
-				"/Users/iker/Workspace/lunchkaki/app/controllers/websites_controller.rb",
-				"/Users/iker/Workspace/lunchkaki/app/views/users/ffl.haml",
-				"/Users/iker/Workspace/lunchkaki/app/services/user_settings.rb",
-				"/private/etc/.bash_profile",
-				"/Users/iker/.bash_profile",
-				"/Users/iker/Workspace/lunchkaki/.powrc",
-				"/Users/iker/Library/Application Support/Sublime Text 2/Packages/User/RubyTest.sublime-settings",
-				"/Users/iker/Library/Application Support/Sublime Text 2/Packages/Ruby/Ruby.sublime-build",
-				"/Users/iker/Library/Application Support/Sublime Text 2/Packages/RubyTest/Default.sublime-keymap",
-				"/Users/iker/Library/Application Support/Sublime Text 2/Packages/RubyTest/Default (OSX).sublime-keymap",
-				"/Users/iker/Library/Application Support/Sublime Text 2/Packages/RSpec/RSpec.sublime-build",
-				"/Users/iker/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
-				"/Users/iker/Workspace/lunchkaki/spec/models/user_spec.rb",
-				"/Users/iker/Workspace/lunchkaki/app/models/user.rb"
-			],
-			"find":
-			{
-				"height": 37.0
-			},
-			"find_in_files":
-			{
-				"height": 0.0,
-				"where_history":
-				[
-					"/Users/iker/Titanium/Lunch Kaki/Resources"
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": false,
-				"find_history":
-				[
-					"last_online_label",
-					"message_input.height = 40",
-					"message_input.height",
-					"message_input.top",
-					"message_input.height",
-					"set_x",
-					"_account",
-					"Ti.App.users_numb",
-					"text_back",
-					"chat_box_back_created",
-					"message_wrap",
-					"inapp",
-					"Ti.API.error(",
-					"responseString",
-					"alert",
-					"close_key",
-					"open_key",
-					"open_",
-					"refresh_list_of_user",
-					"gender_input",
-					"PUBLIC_KEY",
-					"Purchase resp",
-					"DEVELOPER_PAYLOAD",
-					"textLog",
-					"message_input_value",
-					"Ti.API.error(",
-					"image.width",
-					"imagevi",
-					"$.map",
-					"autorotate",
-					"display_popup_message",
-					"alert",
-					"alert.re",
-					"WS_receive",
-					"check_chat_box_information_go_out",
-					"display_popup_request_send_error",
-					"clickable",
-					"save_me",
-					"request_chat_information",
-					"chat_in",
-					"Ti.API.error(",
-					"request_chat_information",
-					"request_chat_information_ffl",
-					"ffl",
-					"Ti.API.error(",
-					"data =",
-					"stable",
-					"var data = ",
-					"replace",
-					"body",
-					"close_keyboard",
-					"keyboard_open",
-					"LATTER",
-					"LATER",
-					"LATTER",
-					"latter",
-					"Ti.App.keyboard_open",
-					"message_rece",
-					"mp3",
-					"sound",
-					"_login",
-					"have_something",
-					"win_user_profile.remove(win_user_profile.children[win_user_profile.children.length-1]);",
-					"win_user_regi",
-					"crop_view",
-					"back_button",
-					"back_button_avatar",
-					"win_profile",
-					"avatar_select_button",
-					"avatar",
-					"alert",
-					"Ti.API.error(",
-					"========",
-					"stringify",
-					"alert",
-					"new_unread_message",
-					"Ti.API.error(",
-					"alert",
-					"socket_open",
-					"send",
-					"keyboard_open",
-					"padding",
-					"20",
-					"close ws",
-					"Ti.API.error(",
-					"Ti.App.can_go",
-					"selectedBackgroundColor",
-					"chat_old_message",
-					"scrollTo",
-					"each",
-					"scrollToIndex",
-					"last_online.top",
-					"last_online",
-					"last_onlint",
-					"display_messages",
-					"padding",
-					"keyboard_open",
-					"all_requests",
-					"ff000",
-					"(message_wrap, last_online, body, body_height, padding, alert_height)",
-					"(element, last_online, body, body_height, padding, alert_height)",
-					"open_keyboard",
-					"body_he",
-					"5",
-					"body_height",
-					"13",
-					"postlayout",
-					"Ti.App.change",
-					"changed",
-					"is_in_focus",
-					"send_but",
-					"padding",
-					"message_input_fake",
-					"message_wrap",
-					"body",
-					"item_wrap_load",
-					"reopen",
-					"display_chat();",
-					"element",
-					"bottom",
-					"Enter chat text here!",
-					"Ti.API.error(",
-					"request_chat_information_ffl",
-					"ffl",
-					"JSON.parse",
-					"data.partner_deleted",
-					"login",
-					"request_download_welcome_picture"
-				],
-				"highlight": true,
-				"in_selection": false,
-				"preserve_case": false,
-				"regex": false,
-				"replace_history":
-				[
-					"message_input.height = 35",
-					"avatar_big_test",
-					"Ti.App.user_listing_clickable",
-					"(form_input, message_input_wrap, message_input, send_button_wrap, message_wrap, last_online, body, body_height, padding, alert_height)",
-					"(form_input, message_input_wrap, message_input, send_button_wrap, element, last_online, body, body_height, padding, alert_height)",
-					"open_keyboard(message_wrap, last_online, body, body_height);",
-					"message_wrap",
-					"}, 1000);",
-					"2000",
-					"alert",
-					"open_keyboard_chat(message_wrap, form_input, message_input_wrap, message_input, send_button_wrap, body_height, last_online, kaki_typing)",
-					"message_wrap",
-					"close_keyboard_chat(element, form_input, message_input_wrap, message_input, send_button_wrap, body_height, last_online, kaki_typing);",
-					"close_keyboard_chat(message_wrap, form_input, message_input, body_height, kaki_typing);",
-					"open_keyboard_chat_frame(message_wrap, form_input, message_input, body_height, last_online, kaki_typing);",
-					"}, 3500)",
-					"WS_send",
-					":",
-					"display_one_message",
-					"height",
-					"Ti.App.width",
-					"img style=\"width: 15px;",
-					"img style=\"width: 20px;",
-					"",
-					"message",
-					"messages",
-					"e.code",
-					"requests",
-					"blocks",
-					"TEXT",
-					"Ti",
-					"message_wrap",
-					"timeout : 15000",
-					"if(Ti.App.osname==\"android\"){",
-					"location_android",
-					"Ti.App.unit1",
-					"Ti.App.big_dot_top",
-					"Ti.App.users_numb"
-				],
-				"reverse": false,
-				"show_context": true,
-				"use_buffer2": true,
-				"whole_word": false,
-				"wrap": true
-			},
-			"folders":
-			[
-				{
-					"path": "/Users/iker/Workspace/lunchkaki"
-				}
-			],
-			"groups":
-			[
-				{
-					"sheets":
-					[
-					]
-				}
-			],
-			"incremental_find":
-			{
-				"height": 0.0
-			},
-			"input":
-			{
-				"height": 0.0
-			},
-			"layout":
-			{
-				"cells":
-				[
-					[
-						0,
-						0,
-						1,
-						1
-					]
-				],
-				"cols":
-				[
-					0.0,
-					1.0
-				],
-				"rows":
-				[
-					0.0,
-					1.0
-				]
-			},
-			"menu_visible": true,
-			"output.exec":
-			{
-				"height": 102.0
-			},
-			"position": "0 4 1440 873 0 0 1440 877 ",
-			"replace":
-			{
-				"height": 66.0
-			},
-			"save_all_on_build": true,
-			"select_file":
-			{
-				"height": 0.0,
-				"selected_items":
-				[
-					[
-						"viewho",
-						"app/views/websites/home.haml"
-					],
-					[
-						"websitehomecss",
-						"app/assets/stylesheets/websites/home.css.scss"
-					],
-					[
-						"appos",
-						"app_ios.js"
-					],
-					[
-						"chatws",
-						"helpers/chats.ws_android.js"
-					],
-					[
-						"reques",
-						"services/requests.js"
-					],
-					[
-						"userlist",
-						"views/user/listing.js"
-					],
-					[
-						"chatmes",
-						"helpers/chats.messages_android.js"
-					],
-					[
-						"chatbox",
-						"views/chat/box_android.js"
-					],
-					[
-						"ava",
-						"helpers/avatar_android.js"
-					],
-					[
-						"regis",
-						"views/user/registration.js"
-					],
-					[
-						"app",
-						"controllers/inapp_android_controller.js"
-					],
-					[
-						"back",
-						"views/application/back_button.js"
-					],
-					[
-						"requ",
-						"services/requests.js"
-					],
-					[
-						"acco",
-						"views/user/account.js"
-					],
-					[
-						"ios",
-						"app_ios.js"
-					],
-					[
-						"winbac",
-						"services/windows.back.js"
-					],
-					[
-						"loca",
-						"services/location.js"
-					],
-					[
-						"pick",
-						"helpers/field.picker.js"
-					],
-					[
-						"pic",
-						"helpers/field.picker.js"
-					],
-					[
-						"sele",
-						"helpers/field.picker.js"
-					],
-					[
-						"pro",
-						"views/user/profile.js"
-					],
-					[
-						"home",
-						"views/application/home.js"
-					],
-					[
-						"slide",
-						"helpers/windows.slide.js"
-					],
-					[
-						"open",
-						"helpers/windows.openclose.js"
-					],
-					[
-						"pr",
-						"views/user/profile.js"
-					],
-					[
-						"po",
-						"html/policy.html"
-					],
-					[
-						"alert",
-						"services/alert.js"
-					],
-					[
-						"message",
-						"models/messages.js"
-					],
-					[
-						"usercon",
-						"controllers/users_controller.js"
-					],
-					[
-						"boxios",
-						"views/chat/box_ios.js"
-					],
-					[
-						"boxis",
-						"views/chat/box_ios.js"
-					],
-					[
-						"win",
-						"services/windows.js"
-					],
-					[
-						"accou",
-						"views/user/account.js"
-					],
-					[
-						"requets",
-						"services/requests.js"
-					],
-					[
-						"requs",
-						"helpers/requests.send.listing.js"
-					],
-					[
-						"chatlist",
-						"helpers/chats.listing.js"
-					],
-					[
-						"request",
-						"services/requests.js"
-					],
-					[
-						"login",
-						"views/user/login.js"
-					],
-					[
-						"windbac",
-						"services/windows.back.js"
-					],
-					[
-						"appbac",
-						"views/application/back_button.js"
-					],
-					[
-						"avata",
-						"helpers/avatar.js"
-					],
-					[
-						"avatar",
-						"helpers/avatar_android.js"
-					],
-					[
-						"profile",
-						"views/user/profile.js"
-					],
-					[
-						"re",
-						"services/requests.js"
-					],
-					[
-						"log",
-						"views/user/login.js"
-					],
-					[
-						"month",
-						"views/monthkakis/monthkakis.js"
-					],
-					[
-						"foot",
-						"views/application/footer.js"
-					],
-					[
-						"wind",
-						"services/windows.js"
-					],
-					[
-						"side",
-						"views/application/sidemenu.js"
-					],
-					[
-						"cont",
-						"controllers/controllers.js"
-					],
-					[
-						"con",
-						"controllers/controllers.js"
-					],
-					[
-						"chatmess",
-						"helpers/chats.messages_android.js"
-					],
-					[
-						"fo",
-						"views/application/footer.js"
-					],
-					[
-						"tu",
-						"views/user/tutorial.js"
-					],
-					[
-						"ando",
-						"app_android.js"
-					],
-					[
-						"inap",
-						"controllers/inapp_controller.js"
-					],
-					[
-						"block",
-						"models/blocks.js"
-					],
-					[
-						"shar",
-						"views/user/share.js"
-					],
-					[
-						"av",
-						"helpers/avatar.js"
-					],
-					[
-						"req",
-						"services/requests.js"
-					],
-					[
-						"reque",
-						"services/requests.js"
-					],
-					[
-						"welc",
-						"views/application/welcome.js"
-					],
-					[
-						"reg",
-						"views/user/registration.js"
-					],
-					[
-						"curr",
-						"services/windows.current.js"
-					],
-					[
-						"foo",
-						"views/application/footer.js"
-					],
-					[
-						"sh",
-						"views/user/share.js"
-					],
-					[
-						"requesse",
-						"views/request/send.js"
-					],
-					[
-						"date",
-						"helpers/datetime.js"
-					],
-					[
-						"mess",
-						"models/messages.js"
-					],
-					[
-						"mode",
-						"models/blocks.js"
-					],
-					[
-						"ws",
-						"helpers/chats.ws.js"
-					],
-					[
-						"chat",
-						"models/chats.js"
-					],
-					[
-						"dat",
-						"helpers/datetime.js"
-					],
-					[
-						"ffl",
-						"views/user/ffl.js"
-					],
-					[
-						"aler",
-						"services/alert.js"
-					],
-					[
-						"users",
-						"controllers/users_controller.js"
-					],
-					[
-						"in",
-						"controllers/inapp_controller.js"
-					],
-					[
-						"he",
-						"helpers/helpers.js"
-					],
-					[
-						"user",
-						"models/users.js"
-					],
-					[
-						"font",
-						"services/font_family.js"
-					],
-					[
-						"fon",
-						"services/font_family.js"
-					],
-					[
-						"requesend",
-						"helpers/requests.send.listing.js"
-					],
-					[
-						"profi",
-						"views/user/profile.js"
-					],
-					[
-						"clos",
-						"helpers/windows.openclose.js"
-					],
-					[
-						"box",
-						"views/chat/box_ios.js"
-					],
-					[
-						"send",
-						"helpers/requests.send.listing.js"
-					],
-					[
-						"avar",
-						"helpers/avatar.js"
-					],
-					[
-						"list",
-						"views/chat/list.js"
-					],
-					[
-						"db",
-						"db/db_creator.js"
-					],
-					[
-						"conf",
-						"services/configs.js"
-					],
-					[
-						"ope",
-						"helpers/windows.openclose.js"
-					],
-					[
-						"account",
-						"views/user/account.js"
-					],
-					[
-						"application_controller",
-						"controllers/application_controller.js"
-					],
-					[
-						"lo",
-						"services/location.js"
-					],
-					[
-						"chatbo",
-						"views/chat/box_ios.js"
-					],
-					[
-						"tuto",
-						"views/user/tutorial.js"
-					],
-					[
-						"welco",
-						"views/application/welcome.js"
-					],
-					[
-						"viewmont",
-						"views/monthkakis/monthkakis.js"
-					],
-					[
-						"chats",
-						"models/chats.js"
-					],
-					[
-						"boxan",
-						"views/chat/box_android.js"
-					],
-					[
-						"wins",
-						"helpers/windows.slide.js"
-					],
-					[
-						"avat",
-						"helpers/avatar.js"
-					],
-					[
-						"pri",
-						"views/user/profile.js"
-					],
-					[
-						"mon",
-						"views/monthkakis/monthkakis.js"
-					],
-					[
-						"mont",
-						"models/monthkakis.js"
-					],
-					[
-						"appl",
-						"controllers/application_controller.js"
-					],
-					[
-						"inter",
-						"services/internet.js"
-					],
-					[
-						"ia",
-						"controllers/inapp_controller.js"
-					],
-					[
-						"apan",
-						"app_android.js"
-					],
-					[
-						"requestre",
-						"views/request/received.js"
-					],
-					[
-						"requestsend",
-						"views/request/send.js"
-					],
-					[
-						"mes",
-						"helpers/chats.messages.js"
-					],
-					[
-						"conin",
-						"controllers/inapp_controller.js"
-					],
-					[
-						"requestrece",
-						"helpers/requests.received.listing.js"
-					],
-					[
-						"rece",
-						"helpers/requests.received.listing.js"
-					],
-					[
-						"receiv",
-						"views/request/received.js"
-					],
-					[
-						"uselist",
-						"helpers/users.listing.js"
-					],
-					[
-						"appcon",
-						"controllers/application_controller.js"
-					],
-					[
-						"tut",
-						"views/user/tutorial.js"
-					],
-					[
-						"loc",
-						"services/location.js"
-					],
-					[
-						"bloc",
-						"helpers/users.block.js"
-					],
-					[
-						"userblock",
-						"helpers/users.block.js"
-					],
-					[
-						"cu",
-						"services/windows.current.js"
-					],
-					[
-						"viewchatlis",
-						"views/chat/list.js"
-					],
-					[
-						"chatlis",
-						"helpers/chats.listing.js"
-					],
-					[
-						"",
-						"controllers/controllers.js"
-					],
-					[
-						"wel",
-						"views/application/welcome.js"
-					],
-					[
-						"confi",
-						"services/configs.js"
-					]
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 0.0,
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"show_minimap": false,
-			"show_open_files": false,
-			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 359.0,
-			"status_bar_visible": true,
-			"window_id": 66,
-			"workspace_name": ""
-		},
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
-					[
-						"c",
-						"chat_id"
-					],
-					[
-						"list",
-						"listing_user_wrap"
-					],
-					[
-						"bo",
-						"borderColor"
-					],
-					[
-						"im",
-						"image"
-					],
-					[
-						"an",
-						"android"
-					],
-					[
-						"last",
-						"last_online_label"
-					],
-					[
-						"me",
-						"media"
-					],
-					[
-						"back",
-						"back_button"
-					],
-					[
-						"display_messages_old_",
-						"display_messages_old_prepare"
-					],
-					[
-						"Display",
-						"display_messages_old"
-					],
-					[
-						"mes",
-						"message_input"
-					],
-					[
-						"fo",
-						"focus"
-					],
-					[
-						"cha",
-						"changed"
-					],
-					[
-						"cu",
-						"current_win"
-					],
-					[
-						"chn",
-						"change"
-					],
-					[
-						"un",
-						"unit"
-					],
-					[
-						"al",
-						"alert_height"
-					],
-					[
-						"ti",
-						"title_height"
-					],
-					[
-						"foo",
-						"footer_height"
-					],
-					[
-						"body",
-						"body_rect_height"
-					],
-					[
-						"keyb",
-						"keyboard_open"
-					],
-					[
-						"to",
-						"toImage"
-					],
-					[
-						"set",
-						"setTimeout"
-					],
-					[
-						"con",
-						"conversation_h"
-					],
-					[
-						"tim",
-						"timing_send"
-					],
-					[
-						"time",
-						"time_zone"
-					],
-					[
-						"typing",
-						"typing_user"
-					],
-					[
-						"key",
-						"keyboard_open"
-					],
-					[
-						"form",
-						"form_input"
-					],
-					[
-						"re",
-						"remove"
-					],
-					[
-						"messe",
-						"message_wrap"
-					],
-					[
-						"messa",
-						"message"
-					],
-					[
-						"mess",
-						"message_background"
-					],
-					[
-						"border",
-						"borderWidth"
-					],
-					[
-						"chat",
-						"chat_time"
-					],
-					[
-						"de",
-						"device_token"
-					],
-					[
-						"devi",
-						"deviceToken"
-					],
-					[
-						"wi",
-						"width"
-					],
-					[
-						"bac",
-						"backgroundColor"
-					],
-					[
-						"v",
-						"visible"
-					],
-					[
-						"message",
-						"message_id"
-					],
-					[
-						"win_chat",
-						"win_chat_box"
-					],
-					[
-						"get",
-						"getTitle"
-					],
-					[
-						"curr",
-						"current_win"
-					],
-					[
-						"win",
-						"win_user_registration"
-					],
-					[
-						"image",
-						"image_avatar_url"
-					],
-					[
-						"res",
-						"responseText"
-					],
-					[
-						"coni",
-						"configs_welcome_picture"
-					],
-					[
-						"model",
-						"model_messages"
-					],
-					[
-						"req",
-						"requests"
-					],
-					[
-						"request",
-						"request_id"
-					],
-					[
-						"requ",
-						"request_id"
-					],
-					[
-						"age",
-						"age_dot"
-					],
-					[
-						"item",
-						"items_wrap"
-					],
-					[
-						"block",
-						"blocks"
-					],
-					[
-						"user",
-						"user_id"
-					],
-					[
-						"usr",
-						"user_name"
-					],
-					[
-						"user_",
-						"user_name"
-					],
-					[
-						"cur",
-						"current_win"
-					],
-					[
-						"el",
-						"element"
-					],
-					[
-						"win_user",
-						"win_user_ffl"
-					],
-					[
-						"pa",
-						"parse"
-					],
-					[
-						"ch",
-						"children"
-					],
-					[
-						"win_an",
-						"win_app_android_image"
-					],
-					[
-						"win_app_",
-						"win_app_android_image_height"
-					],
-					[
-						"le",
-						"length"
-					]
-				]
-			},
-			"buffers":
-			[
-				{
-					"file": "/Users/iker/Titanium/Lunch Kaki/Resources/app_ios.js",
-					"settings":
-					{
-						"buffer_size": 9652,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/iker/Titanium/Lunch Kaki/Resources/views/chat/box_ios.js",
-					"settings":
-					{
-						"buffer_size": 18911,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/iker/Titanium/Lunch Kaki/Resources/helpers/chats.messages.js",
-					"settings":
-					{
-						"buffer_size": 19380,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/iker/Titanium/Lunch Kaki/Resources/helpers/chats.ws.js",
-					"settings":
-					{
-						"buffer_size": 13322,
-						"line_ending": "Unix"
-					}
-				}
-			],
-			"build_system": "",
-			"command_palette":
-			{
-				"height": 181.0,
-				"selected_items":
-				[
-					[
-						"java",
-						"Set Syntax: JavaScript"
-					],
-					[
-						"ha",
-						"Set Syntax: Ruby Haml"
-					],
-					[
-						"ins",
-						"Package Control: Install Package"
-					],
-					[
-						"remo",
-						"Package Control: Remove Package"
-					],
-					[
-						"insta",
-						"Package Control: Install Package"
-					],
-					[
-						"instal",
-						"Package Control: Install Package"
-					],
-					[
-						"Package Control: ",
-						"Package Control: Remove Package"
-					],
-					[
-						"remove",
-						"Package Control: Remove Package"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
-					]
-				],
-				"width": 435.0
-			},
-			"console":
-			{
-				"height": 127.0
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": false,
-				"status_bar_visible": false
-			},
-			"file_history":
-			[
-				"/Users/iker/Titanium/Lunch Kaki/Resources/views/chat/box.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/gcm_activity.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/gcm.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/lib.gcm.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/chats.ws.js",
-				"/Users/iker/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
-				"/Users/iker/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
-				"/Users/iker/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/views/user/listing.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/users.listing.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/services/requests.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/avatar_android.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/views/user/registration.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/chats.ws_android.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/chats.messages_android.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/views/chat/box_android.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/services/windows.back.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/views/user/account.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/controllers/inapp_android_controller.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/views/application/back_button.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/app_ios.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/services/location.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/controllers/inapp_controller.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/views/user/ffl.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/views/application/home.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/field.picker.js",
-				"/Users/iker/Library/Application Support/Sublime Text 2/Packages/RubyTest/RubyTest.sublime-settings",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/views/user/profile.js",
-				"/Users/iker/Downloads/Lunch Kaki.apk",
-				"/Users/iker/Downloads/Lunch",
-				"/Users/iker/Kaki.apk",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/windows.openclose.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/windows.slide.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/services/alert.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/html/policy.html",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/views/chat/box_ios.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/views/application/footer_android.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/views/application/footer_ios.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/models/requests.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/views/user/login.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/views/chat/list.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/chats.listing.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/models/messages.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/controllers/users_controller.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/services/windows.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/requests.send.listing.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/views/monthkakis/monthkakis.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/avatar.js",
-				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/chats.messages.js",
 				"/Users/iker/Titanium/Lunch Kaki/Resources/views/application/footer.js",
 				"/Users/iker/Titanium/Lunch Kaki/Resources/app.js",
 				"/Users/iker/Titanium/Lunch Kaki/Resources/views/application/sidemenu.js",
@@ -4619,118 +3320,8 @@
 			"groups":
 			[
 				{
-					"selected": 1,
 					"sheets":
 					[
-						{
-							"buffer": 0,
-							"file": "/Users/iker/Titanium/Lunch Kaki/Resources/app_ios.js",
-							"settings":
-							{
-								"buffer_size": 9652,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										8417,
-										8417
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 3954.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/Users/iker/Titanium/Lunch Kaki/Resources/views/chat/box_ios.js",
-							"settings":
-							{
-								"buffer_size": 18911,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										11989,
-										11989
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 6795.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/Users/iker/Titanium/Lunch Kaki/Resources/helpers/chats.messages.js",
-							"settings":
-							{
-								"buffer_size": 19380,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										17441,
-										17441
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 9195.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "/Users/iker/Titanium/Lunch Kaki/Resources/helpers/chats.ws.js",
-							"settings":
-							{
-								"buffer_size": 13322,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										13322,
-										13322
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 3466.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						}
 					]
 				}
 			],
@@ -4781,6 +3372,10 @@
 				"selected_items":
 				[
 					[
+						"chatmes",
+						"helpers/chats.messages.js"
+					],
+					[
 						"ios",
 						"app_ios.js"
 					],
@@ -4791,10 +3386,6 @@
 					[
 						"chatws",
 						"helpers/chats.ws.js"
-					],
-					[
-						"chatmes",
-						"helpers/chats.messages.js"
 					],
 					[
 						"appos",

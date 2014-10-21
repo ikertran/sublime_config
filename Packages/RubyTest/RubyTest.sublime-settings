@@ -24,6 +24,8 @@
 
   "hide_panel": false,
 
+  "check_for_rvm": true,
+
   "before_callback": "",
   "after_callback": ""
 }

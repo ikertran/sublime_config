@@ -11,8 +11,8 @@
   "run_cucumber_command": "rvm-auto-ruby -S bundle exec cucumber {relative_path}",
   "run_single_cucumber_command": "rvm-auto-ruby -S bundle exec cucumber {relative_path} -l{line_number}",
 
-  "run_rspec_command": "rvm-auto-ruby -S bundle exec rspec {relative_path}",
-  "run_single_rspec_command": "rvm-auto-ruby -S bundle exec rspec {relative_path} -l{line_number}",
+  "run_rspec_command": "rspec {relative_path}",
+  "run_single_rspec_command": "rspec {relative_path}:{line_number}",
 
   "ruby_unit_folder": "test",
   "ruby_cucumber_folder": "features",
@@ -23,8 +23,6 @@
   "ignored_directories": [".git", "vendor", "tmp"],
 
   "hide_panel": false,
-
-  "check_for_rvm": true,
 
   "before_callback": "",
   "after_callback": ""
